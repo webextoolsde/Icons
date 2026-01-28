@@ -145,8 +145,14 @@
       "name": "active-speaker-alert-bold",
       "color": "orange"
     },
+
     "network_error":{
       "name": "active-speaker-alert-bold",
+      "color": "red"
+    },
+    
+    "energy":{
+      "name": "diagnostics-regular",
       "color": "red"
     }
   }
